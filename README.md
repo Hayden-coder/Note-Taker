@@ -26,3 +26,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 ## Summary
 This simple note taking application allows you to save notes with a title and plain text. Powered by ExpressJS, the Note Taker app makes creating, viewing, and deleting notes easy!!
+
+## demonstration
+
+![demo](https://user-images.githubusercontent.com/74078719/110873737-45500500-8287-11eb-8039-6b7f34036a8b.gif)
+
+## Link 
+
+https://note-taker-week11.herokuapp.com/
